@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Data on Estelrich App Labs</title><link>https://www.estelrichapplabs.com/categories/data/</link><description>Recent content in Data on Estelrich App Labs</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate><atom:link href="https://www.estelrichapplabs.com/categories/data/index.xml" rel="self" type="application/rss+xml"/><item><title>How to build an Application with modern Technology</title><link>https://www.estelrichapplabs.com/blog/post-1/</link><pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate><guid>https://www.estelrichapplabs.com/blog/post-1/</guid><description>&lt;p>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.&lt;/p></description></item><item><title>How to build an Application with modern Technology</title><link>https://www.estelrichapplabs.com/blog/post-2/</link><pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate><guid>https://www.estelrichapplabs.com/blog/post-2/</guid><description>&lt;p>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data on Estelrich App Labs</title>
+    <link>http://localhost:1313/categories/data/</link>
+    <description>Recent content in Data on Estelrich App Labs</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/data/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to build an Application with modern Technology</title>
+      <link>http://localhost:1313/blog/post-1/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post-1/</guid>
+      <description>&lt;p&gt;Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How to build an Application with modern Technology</title>
+      <link>http://localhost:1313/blog/post-2/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post-2/</guid>
+      <description>&lt;p&gt;Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why I still choose native iOS development in 2025</title>
+      <link>http://localhost:1313/blog/why-native-ios-2025.md/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/why-native-ios-2025.md/</guid>
+      <description>&lt;h1 id=&#34;why-i-still-choose-native-ios-development-in-2025&#34;&gt;Why I still choose native iOS development in 2025&lt;/h1&gt;&#xA;&lt;p&gt;In 2025, native iOS development often feels like a deliberate choice rather than the default. With the rise of cross-platform tools like Flutter, React Native, and Kotlin Multiplatform, engineering teams are under increasing pressure to &amp;ldquo;build once, run everywhere.&amp;rdquo; And while that pitch has appeal—especially from a business perspective—I continue to invest deeply in native iOS development. Here’s why.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

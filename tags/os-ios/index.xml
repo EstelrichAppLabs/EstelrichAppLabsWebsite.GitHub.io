@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OS: IOS on Estelrich App Labs</title>
+    <link>http://localhost:1313/tags/os-ios/</link>
+    <description>Recent content in OS: IOS on Estelrich App Labs</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/os-ios/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why I still choose native iOS development in 2025</title>
+      <link>http://localhost:1313/blog/2025.04.03_why-native-ios-2025/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/2025.04.03_why-native-ios-2025/</guid>
+      <description>&lt;p&gt;In 2025, native iOS development often feels like a deliberate choice rather than the default. With the rise of cross-platform tools like Flutter, React Native, and Kotlin Multiplatform, engineering teams are under increasing pressure to &amp;ldquo;build once, run everywhere.&amp;rdquo; And while that pitch has appeal especially from a business perspective, I continue to invest deeply in native iOS development and here’s why.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
